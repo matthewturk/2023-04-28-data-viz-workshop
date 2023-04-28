@@ -233,7 +233,9 @@ What does the data mean to you, and how do you 'read' it?
 
 <div class="multiCol">
 <div class="col">
+
 ![Picture of a Disk](images/disk-filled-svgrepo-com.svg)
+
 </div>
 <div class="col">
 The first step is asking the researcher to simply *tell* us about their data.
