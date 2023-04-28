@@ -238,9 +238,11 @@ What does the data mean to you, and how do you 'read' it?
 
 </div>
 <div class="col">
+
 The first step is asking the researcher to simply *tell* us about their data.
 This is an unstructured process -- and it is not task based.  What *is* a
 dataset to the researcher?
+
 </div>
 </div>
 
