@@ -270,7 +270,7 @@ During the second phase, we ask three foundational questions.
 
 ---
 
-## Phase Three:
+## Phase Three
 
 We ask them to *draw* how they perceive data.
 
@@ -363,28 +363,24 @@ How we tell our stories is impacted greatly by how we learn, and how data practi
 
 ---
 
-## Our Data Stories
-
 <div class="multiCol">
-<div class="col">
+<div class="col vertical_center">
 
 ![Network Transmission](images/network-transmit-receive-svgrepo-com.svg)
 
 </div>
-<div class="col">
+<div class="col vertical_center">
 Data practices are culturally transmitted.
 </div>
 </div>
 
 ---
 
-## Our Data Stories
-
 <div class="multiCol">
-<div class="col">
+<div class="col vertical_center">
 Linking and layering of information is driven by a search for causality.
 </div>
-<div class="col">
+<div class="col vertical_center">
 
 ![Layers](images/layer-svgrepo-com.svg)
 
@@ -393,16 +389,16 @@ Linking and layering of information is driven by a search for causality.
 
 ---
 
-## Our Data Stories
-
 <div class="multiCol">
-<div class="col">
+<div class="col vertical_center">
 
 ![World](images/world-svgrepo-com.svg)
 
 </div>
-<div class="col">
+<div class="col vertical_center">
+
 Data practices are embedded in broader cultural and social practices around technology.
+
 </div>
 </div>
 
